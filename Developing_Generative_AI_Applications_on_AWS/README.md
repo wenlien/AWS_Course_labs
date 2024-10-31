@@ -1,6 +1,8 @@
 # Labs memos of "Developing Generative AI Applications on AWS" by using Playground
 
-#### Task 1a: Perform Text Generation
+#### Task 1: Perform Text Generation
+
+###### Task 1-1: Perform Text Generation
 
     Mode: ***Single prompt***
 
@@ -25,9 +27,12 @@ who provided negative feedback on the service provided by our customer support
 engineer
 ```
 
-    Output:
+    Example Output:
 
-#### Task 1b: Perform Text Generation using a prompt that includes Context
+```textile
+```
+
+###### Task 1-2: Perform Text Generation using a prompt that includes Context
 
     Mode: ***Single prompt***
 
@@ -67,9 +72,14 @@ We are very unhappy with the response provided and may consider taking our busin
 }
 ```
 
-    Output:
+    Example Output:
 
-#### Task 2a: Text summarization with small files with Titan Text Premier
+```textile
+```
+
+#### Task 2: Create Text Summarization
+
+#### Task 2-1: Text summarization with small files with Titan Text Premier
 
     Mode: ***Single prompt***
 
@@ -103,9 +113,12 @@ tools and capabilities they are familiar with, without having to manage any infr
 with Amazon SageMaker ML features like Experiments to test different models and Pipelines to manage their FMs at scale).
 ```
 
-    Output:
+    Example Output:
 
-#### Task 2b: Abstractive Text Summarization
+```textile
+```
+
+#### Task 2-2: Abstractive Text Summarization
 
     Mode: ***Chat***
 
@@ -129,7 +142,10 @@ summarize the file 2022-letter.txt
 
     Input: 2022-letter.txt
 
-    Output:
+    Example Output:
+
+```textile
+```
 
 #### Task 3: Use Amazon Bedrock for Question Answering
 
@@ -162,7 +178,10 @@ Answer:
 
     Input:
 
-    Output:
+    Example Output:
+
+```textile
+```
 
 ###### Task 3-2:
 
@@ -189,7 +208,10 @@ How can I fix a flat tire on my Amazon Tirana?
 
     Input:
 
-    Output:
+    Example Output:
+
+```textile
+```
 
 ###### Task 3-3:
 
@@ -264,7 +286,10 @@ Please note that the tire mobility kit is a temporary solution and is designed t
 }
 ```
 
-    Output:
+    Example Output:
+
+```textile
+```
 
 #### Task 4: Conversational Interface - Chat with Llama 3 and Titan Premier LLMs
 
@@ -300,7 +325,10 @@ bugs
 
     Input:
 
-    Output:
+    Example Output:
+
+```textile
+```
 
 ###### Task 4-2:
 
@@ -323,7 +351,10 @@ R in SageMaker
 
     Input: [Shrinked]Amazon_SageMaker_FAQs.csv
 
-    Output:
+    Example Output:
+
+```textile
+```
 
 #### Task 5: Invoke Bedrock model for code generation
 
@@ -392,7 +423,10 @@ date,product_id,price,units_sold
 2023-05-25,P002,60,21
 ```
 
-    Output:
+    Example Output:
+
+```textile
+```
 
 #### Task 6: Building conversational applications with the Converse API (N/A)
 
@@ -406,4 +440,7 @@ date,product_id,price,units_sold
 
     Input:
 
-    Output:
+    Example Output:
+
+```textile
+```
