@@ -3,6 +3,8 @@
 #### Task 1: Perform Text Generation
 
 ###### Task 1-1: Perform Text Generation
+    Steps: Amazon Bedrock -> Playgrounds -> Chat/text
+<img width="699" alt="Screenshot 2024-11-07 at 5 30 50 PM" src="https://github.com/user-attachments/assets/560c000c-ded7-4fd5-8a13-3288fee35dae">
 
     Mode: ***Single prompt***
 
