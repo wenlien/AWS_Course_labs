@@ -142,7 +142,7 @@ with Amazon SageMaker ML features like Experiments to test different models and 
 summarize the file 2022-letter.txt
 ```
 
-    Input: 2022-letter.txt
+    Input: [2022-letter.txt](https://github.com/wenlien/AWS_Course_labs/blob/main/Developing_Generative_AI_Applications_on_AWS/PDFs/2022-letter.txt)
 
     Example Output:
 
