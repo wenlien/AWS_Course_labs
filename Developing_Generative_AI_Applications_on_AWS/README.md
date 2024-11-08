@@ -351,7 +351,7 @@ Model: ***meta.llama3-8b-instruct-v1:0***
 R in SageMaker
 ```
 
-    Input: [Shrinked]Amazon_SageMaker_FAQs.csv
+    Input: [\[Shrinked\]Amazon_SageMaker_FAQs.csv](https://github.com/wenlien/AWS_Course_labs/blob/main/Developing_Generative_AI_Applications_on_AWS/PDFs/[Shrinked]Amazon_SageMaker_FAQs.csv)
 
     Example Output:
 
@@ -394,7 +394,7 @@ Create a python program to analyze the sales data from a CSV file. The program s
 Ensure the code is syntactically correct, bug-free, optimized, not span multiple lines unnessarily, and prefer to use standard libraries. Return only python code without any surrounding text, explanation or context.
 ```
 
-    Input: sales.csv
+    Input: [sales.csv](https://github.com/wenlien/AWS_Course_labs/blob/main/Developing_Generative_AI_Applications_on_AWS/PDFs/sales.csv)
 
 ```csv
 date,product_id,price,units_sold
